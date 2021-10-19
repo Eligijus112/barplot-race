@@ -1,0 +1,5 @@
+n_simulations: 1000
+total_runtime: 40
+dpi: 180
+n_bars: 15
+figsize: [4, 3]
